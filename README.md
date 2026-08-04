@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 Engineering Profile
+###  Engineering Profile
 
 > *"Errors don't wait — neither do I."*
 
@@ -20,15 +20,15 @@ I'm an **Android Developer** based in Istanbul, currently contributing to the **
 
 I work daily with **Kotlin**, **Jetpack Compose**, and **MVVM/Clean Architecture**, optimizing network/cache layers, building custom UI components, and integrating third-party SDKs at scale. I also organize and lead internal knowledge-sharing workshops to help my team grow.
 
-- 🔭 Currently building features for the **Türk Telekom Online İşlemler** app
-- 🧪 Started out in **Test Automation** (Appium, Selenium, Postman, Charles) — I still think like a tester
-- 🧩 Exploring **Kotlin Multiplatform (KMP)** for cross-platform mobile projects
-- 🎓 Computer Engineering, **Karabük University** — with an exchange year at **Uniwersytet Łódzki**, Poland
-- 🌱 Always learning: staying current with Android/Kotlin trends and side projects
+-  Currently building features for the **Türk Telekom Online İşlemler** app
+-  Started out in **Test Automation** (Appium, Selenium, Postman, Charles) — I still think like a tester
+-  Exploring **Kotlin Multiplatform (KMP)** for cross-platform mobile projects
+-  Computer Engineering, **Karabük University** — with an exchange year at **Uniwersytet Łódzki**, Poland
+-  Always learning: staying current with Android/Kotlin trends and side projects
 
 ---
 
-### 🚀 Experience Timeline
+###  Experience Timeline
 
 ```text
 2023 — Present   Innova Bilişim Çözümleri  →  Android Developer (Türk Telekom Online İşlemler)
@@ -38,16 +38,16 @@ I work daily with **Kotlin**, **Jetpack Compose**, and **MVVM/Clean Architecture
 ```
 
 **Highlights from Türk Telekom:**
-- 🐛 Identified and fixed bugs causing unnecessary server requests
-- ⚡ Optimized the cache structure to cut down request volume
-- 🎛️ Built a custom progress-bar view for end-to-end tracking of home internet technical issues
-- 🔌 Integrated third-party libraries such as Netmera and Sodec
-- 🗣️ Led internal workshops for team knowledge-sharing
+-  Identified and fixed bugs causing unnecessary server requests
+-  Optimized the cache structure to cut down request volume
+-  Built a custom progress-bar view for end-to-end tracking of home internet technical issues
+-  Integrated third-party libraries such as Netmera and Sodec
+-  Led internal workshops for team knowledge-sharing
 
 **Highlights from Vodafone Yanımda (QA):**
-- 🤖 Mobile/web UI automation with Appium & Selenium
-- 📡 API/collection testing via Postman
-- 🕵️ Proxy-based traffic inspection and mock/stub debugging with Charles
+-  Mobile/web UI automation with Appium & Selenium
+-  API/collection testing via Postman
+-  Proxy-based traffic inspection and mock/stub debugging with Charles
 
 ---
 
@@ -94,7 +94,7 @@ I work daily with **Kotlin**, **Jetpack Compose**, and **MVVM/Clean Architecture
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=talhabayhn&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -112,7 +112,7 @@ I work daily with **Kotlin**, **Jetpack Compose**, and **MVVM/Clean Architecture
 
 ---
 
-### 🎓 Education
+###  Education
 
 | Institution | Program | Years |
 |---|---|---|
